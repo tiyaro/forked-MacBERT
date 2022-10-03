@@ -1,3 +1,7 @@
+
+<p>
+<a href="https://console.tiyaro.ai/explore?q=hfl/c&pub=opensource"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
 [**简体中文**](https://github.com/ymcui/MacBERT) | [**English**](./README_EN.md)
 
 <p align="center">
